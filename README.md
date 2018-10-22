@@ -1,0 +1,1 @@
+# slack-idolmaster-cinderella-girls-gekijo
