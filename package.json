@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hakatashi/slack-idolmaster-cinderella-girls-gekijo/issues"
   },
-  "homepage": "https://github.com/hakatashi/slack-idolmaster-cinderella-girls-gekijo#readme"
+  "homepage": "https://github.com/hakatashi/slack-idolmaster-cinderella-girls-gekijo#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
