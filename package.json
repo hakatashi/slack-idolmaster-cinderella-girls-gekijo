@@ -1,0 +1,20 @@
+{
+  "name": "slack-idolmaster-cinderella-girls-gekijo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakatashi/slack-idolmaster-cinderella-girls-gekijo.git"
+  },
+  "keywords": [],
+  "author": "Koki Takahashi <hakatasiloving@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakatashi/slack-idolmaster-cinderella-girls-gekijo/issues"
+  },
+  "homepage": "https://github.com/hakatashi/slack-idolmaster-cinderella-girls-gekijo#readme"
+}
